@@ -1,12 +1,35 @@
-<h1 align="center">Hi 👋, I'm EOM HYUN YOUNG</h1>
-<h3 align="center">개발자 꿈나무</h3>
+# :wave: 안녕하세요! 꾸준히 성장하는 개발자 엄현용입니다. 
 
-![Luverduck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luverduck&&show_icons=true&theme=aura&count_private=true)
+### 💁‍♂️ ABOUT ME
+- 모든 일에 최선을 다하며 한 번 시작한 일은 끝까지 해냅니다.
+- 자기 개발을 소홀히 하지 않으며 항상 더 좋은 방법에 대해 고민합니다.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### 🛠️ STACKS
 
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-squire&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-squire&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mybatis-000000?style=flat-squire&logo=mybatis&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-squire&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-squire&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-squire&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-squire&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-squire&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/axios-5A29E4?style=flat-squire&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/fontawesome-528DD7?style=flat-squire&logo=fontawesome&logoColor=white">
+
+<img src="https://img.shields.io/badge/oracle-F80000?style=flat-squire&logo=oracle&logoColor=white">
+
+<img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-squire&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-squire&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat-squire&logo=github&logoColor=white"> 
+
+<br>
+
+### :bar_chart: STATISTICS
+![Luverduck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luverduck&&show_icons=true&theme=aura&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luverduck&layout=compact&theme=aura)
+
+<br>
+
+### :mailbox_closed: CHANNEL
+<a href = "https://hyekko92.notion.site/EOM-HYUN-YONG-e906b01f29db48deb9c95c602980a83e">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-squire&logo=notion&logoColor=white"> 
+</a> 
+<a href = "https://floating-branch.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-E34F26?style=flat-squire&logo=tistory&logoColor=white"> 
+</a> 
+<a href = "">
+  <img src="https://img.shields.io/badge/hyekko92@gmail.com-E34F26?style=flat-squire&logo=gmail&logoColor=white"> 
+</a
