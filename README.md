@@ -6,13 +6,13 @@
 
 ### 🛠️ STACKS
 
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-squire&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-squire&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/mybatis-000000?style=flat-squire&logo=mybatis&logoColor=white"> 
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-squire&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-squire&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-squire&logo=mybatis&logoColor=white"> 
 
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-squire&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-squire&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-squire&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-squire&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-squire&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/axios-5A29E4?style=flat-squire&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/fontawesome-528DD7?style=flat-squire&logo=fontawesome&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-squire&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-squire&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-squire&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/BootStrap-7952B3?style=flat-squire&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-squire&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-squire&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/Font Awesome-528DD7?style=flat-squire&logo=fontawesome&logoColor=white">
 
-<img src="https://img.shields.io/badge/oracle-F80000?style=flat-squire&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-squire&logo=oracle&logoColor=white">
 
-<img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-squire&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-squire&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat-squire&logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-squire&logo=eclipse&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-squire&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-squire&logo=github&logoColor=white"> 
 
 ### :bar_chart: STATISTICS
 ![Luverduck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luverduck&&show_icons=true&theme=aura&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luverduck&layout=compact&theme=aura)
